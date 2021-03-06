@@ -1,0 +1,8 @@
+1,Barfi,Hindi,2014-4-23,UA,Ranbeer Kapoor-Priyanka Chopra-Manoj,7.2,5000
+2,Avengers,English,2012-5-4,UA,Robert Downey Jr-Chris Evans-Natalia Jonson,9.8,20000
+3,Three Idiots,Hindi,2016-4-6,UA,Amir Khan-Kareena Kapoor-Raj Kumar Rao,9.2,1400
+4,Student of the Year,Hindi,2018-10-3,U,Varun Dhawan-Siddhart Malhotra-AAlia Bhat,7.1,2100
+5,Talaash,Hindi,2010-12-12,A,Ajay Devgan-Tabbo-Govinda,8.6,5400
+6,Madagaskar,english,2012-5-4,U,Alex-Dora-Sam,9.0,14000
+7,Sparsh,Marathi,2011-6-5,U,Mohit-Sonali Devke-Sameer,9.6,4500
+8,Mi Shivaji,marathi,2012-6-6,U,Raj-Sai Tamhankar-Ajay Bapkar,9.2,2300
